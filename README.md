@@ -4,15 +4,11 @@
 
 **[Play the Game](https://tanzeela.itch.io/machine-manager)** | **[Jam Page](https://itch.io/jam/gamedevjs-2026)**
 
----
-
 ## 🎮 About the Game
 
 **Machine Manager** is a real-time survival game where you control a complex industrial machine. Your goal is simple but challenging: **keep both Temperature and Pressure in the safe zone for as long as possible.**
 
 The machine naturally heats up and builds pressure over time. As you survive longer, the machine becomes harder to control. One wrong move and it's game over!
-
----
 
 ## 🎯 How to Play
 
@@ -36,8 +32,6 @@ The machine naturally heats up and builds pressure over time. As you survive lon
 3. **Survival gets harder** - the machine degrades faster over time
 4. **Beat your high score** - best time is saved in your browser
 
----
-
 ## ✨ Features
 
 | Feature | Description |
@@ -50,7 +44,6 @@ The machine naturally heats up and builds pressure over time. As you survive lon
 | 📱 **Mobile friendly** | Works perfectly on phones and tablets |
 | 💾 **No installation** | Runs in any modern browser |
 
----
 
 ## 🎨 NFT Minting (Ethereum Challenge)
 
@@ -63,8 +56,6 @@ When your machine finally breaks down, you can mint it as a unique NFT! Each min
 - Timestamp
 
 NFTs are saved to your browser's local storage and can be viewed in the console.
-
----
 
 ## 🛠️ Technologies Used
 
@@ -92,7 +83,6 @@ NFTs are saved to your browser's local storage and can be viewed in the console.
 - At 120 seconds: 40% faster
 - At 180 seconds: 60% faster
 
----
 
 ## 🏆 High Scores
 
@@ -104,15 +94,12 @@ NFTs are saved to your browser's local storage and can be viewed in the console.
 | 60-120 seconds | Expert |
 | 120+ seconds | Legendary |
 
----
 
 ## 🐛 Known Issues
 
 None! The game is fully tested and working on:
 - Chrome, Firefox, Safari, Edge
 - iOS Safari, Android Chrome
-
----
 
 ## 📝 Version History
 
@@ -122,7 +109,6 @@ None! The game is fully tested and working on:
   - High score tracking
   - Keyboard controls
 
----
 
 ## 👨‍💻 Developer
 
@@ -134,29 +120,22 @@ Created for **[Gamedev.js Jam 2026](https://itch.io/jam/gamedevjs-2026)**
 - ✅ Ethereum by OP Guild
 - ✅ Open Source by GitHub
 
----
 
 ## 📜 License
 
 MIT License - Free to play, modify, and share.
 
----
-
 ## 🙏 Credits
 
-- Sound effects: Web Audio API
 - Icons: Unicode characters
 - Font: Segoe UI / Courier New
 
----
 
 ## 🎯 Links
 
 - [Play the Game](https://tanzeela.itch.io/machine-manager)
 - [Jam Page](https://itch.io/jam/gamedevjs-2026)
 
-
----
 
 *Made with ⚙️ for Gamedev.js Jam 2026*
 
