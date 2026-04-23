@@ -2,7 +2,7 @@
 
 ### A survival strategy game for Gamedev.js Jam 2026
 
-**[Play the Game](https://your-itch.io-link)** | **[Jam Page](https://itch.io/jam/gamedevjs-2026)**
+**[Play the Game](https://tanzeela.itch.io/machine-manager)** | **[Jam Page](https://itch.io/jam/gamedevjs-2026)**
 
 ---
 
@@ -152,9 +152,9 @@ MIT License - Free to play, modify, and share.
 
 ## 🎯 Links
 
-- [Play the Game](#)
+- [Play the Game](https://tanzeela.itch.io/machine-manager)
 - [Jam Page](https://itch.io/jam/gamedevjs-2026)
-- [Source Code](#)
+
 
 ---
 
